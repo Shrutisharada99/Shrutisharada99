@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <li> My-projects </li>
   <li> Coding practice repos: CodeChef-solutions, Leetcode-solutions, CodeVita9</li>
 </ul>
-🥅 Fun fact (cloned from Malcolm Forbes's quotes' repo): Failure is success, if we learn from it. </h4>
+🥅 Fun fact: Failure is success, if we learn from it. </h4>
 <h4 align = right> 
   📫💬 You can reach me at:<br>
   📧: sssharada99@gmail.com <br>
