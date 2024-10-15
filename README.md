@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 <h4 align = center><tt> Thanks for viewing my profile! </tt><br><br>
 <i> Now, take a look at my projects and ✨ star them ✨, if you like! </i> </h4>
 <h4 align = justify> 🗨️ Repositories present in the page: <ul type = circle>
-  <li> My-projects </li>
+  <li> My-projects - Python & HTML </li>
+  <li> Mathematics-for-ML </li>
+  <li> Statistics-for-ML </li>
+  <li> Machine Learning - EDA & Algorithms </li>
   <li> Coding practice repos: CodeChef-solutions, Leetcode-solutions, CodeVita9</li>
 </ul>
 🥅 Fun fact: Failure is success, if we learn from it! </h4>
