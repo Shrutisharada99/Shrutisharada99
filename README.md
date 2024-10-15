@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   <li> Machine Learning - EDA & Algorithms </li>
   <li> Coding practice repos: CodeChef-solutions, Leetcode-solutions, CodeVita9</li>
 </ul>
+  <br>
 🥅 Fun fact: Failure is success, if we learn from it! </h4>
 <h4 align = right> 
   📫💬 You can reach me at:<br>
