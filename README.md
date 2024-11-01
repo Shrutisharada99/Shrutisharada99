@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h3 align = center><tt> 🤩 Hi there! 👋 My name is SHRUTI SHARADA S! 👩‍💻 </tt></h3>
-<h4 align = center><tt> Thanks for viewing my profile! </tt><br><br>
-<i> Now, take a look at my projects and ✨ star them ✨, if you like! </i> </h4>
-<h4 align = justify> 🗨️ Repositories present in the page: <ul type = circle>
+<h4 align = center><tt> Thanks for viewing my profile! </tt><br><br> 
+<i> Now, take a look at my projects and ✨ star them ✨, if you like! </i> </h4> <br>
+<h3 align = justify> 🗨️ Repositories present in the page: </h3>  <ul type = circle>
   <br>
   <li> My-projects - Python & HTML </li>
   <li> Mathematics-for-ML </li>
