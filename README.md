@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2 align = center><tt> 🤩 Hi there! 👋 My name is SHRUTI SHARADA S! 👩‍💻 </tt></h2>
 <h4 align = center><tt><i> Thanks for viewing my profile! </i></tt><br><br> 
 <i> Now, take a look at my projects and ✨ star them ✨, if you like! </i> </h4> <br>
-<h3 align = justify> 🗨️ Repositories present in the page: </h3>  <ul type = circle>
+<h3 align = justify> 🗨️ Repositories present in the page: </h3> <h4> <ul type = circle>
   <br>
   <li> My-projects - Python & HTML </li>
   <li> Mathematics-for-ML </li>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <li> Coding practice repos: CodeChef-solutions, Leetcode-solutions, CodeVita9 </li>
   <li> In-progress repos: MLOPS, Try-ml (to practise ML-Ops) </li>
 </ul>
-<h4> 🥅  Fun fact: Failure is success, if we learn from it! </h4>
+🥅  Fun fact: Failure is success, if we learn from it! </h4>
 <h4 align = right> 
   📫💬 You can reach me at:<br>
   📧: sssharada99@gmail.com <br>
