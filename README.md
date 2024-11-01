@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <h4 align = center><tt><i> Thanks for viewing my profile! </i></tt><br><br> 
 <i> Now, take a look at my projects and ✨ star them ✨, if you like! </i> </h4> <br>
 <h3 align = justify> 🗨️ Repositories present in the page: </h3> <h4> <ul type = circle>
-  <br>
   <li> My-projects - Python & HTML </li>
   <li> Mathematics-for-ML </li>
   <li> Statistics-for-ML </li>
