@@ -22,7 +22,9 @@ Here are some ideas to get you started:
   <li> Mathematics-for-ML </li>
   <li> Statistics-for-ML </li>
   <li> Machine Learning - EDA & Algorithms </li>
-  <li> Coding practice repos: CodeChef-solutions, Leetcode-solutions, CodeVita9</li>
+  <li> Power_BI - for my Power BI projects </li>
+  <li> Coding practice repos: CodeChef-solutions, Leetcode-solutions, CodeVita9 </li>
+  <li> In-progress repos: MLOPS, Try-ml (to practise ML-Ops) </li>
 </ul>
   <br>
 🥅 Fun fact: Failure is success, if we learn from it! </h4>
