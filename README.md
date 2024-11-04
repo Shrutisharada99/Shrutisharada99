@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align = center><tt> 🤩 Hi there! 👋 My name is SHRUTI SHARADA S! 👩‍💻 </tt></h2>
+<h2 align = center>🤩 <i><tt> Hi there! 👋</tt></i> My name is SHRUTI SHARADA S! 👩‍💻 </h2>
 <h4 align = center><tt><i> Thanks for viewing my profile! </i></tt><br><br> 
 <i> Now, take a look at my projects and ✨ star them ✨, if you like! </i> </h4> <br>
-<h3 align = justify> 🗨️ Repositories present in the page: </h3> <h4> <ul type = circle>
+<h3 align = justify> 🗨️ Repositories present in the page 📂: </h3> <h4> <ul type = circle>
   <li> My-projects - Python & HTML </li>
   <li> Mathematics-for-ML </li>
   <li> Statistics-for-ML </li>
