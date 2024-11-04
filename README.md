@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2 align = center>🤩 <i><tt> Hi there! 👋</tt></i> My name is S. Shruti Sharada! 👩‍💻 </h2>
 <h4 align = center><tt><i> Thanks for viewing my profile! </i></tt><br></h4>
-<h4 align = center><i> ✨ Now, take a look at my projects and star them, if you like! ✨ </i> </h4> <br>
+<h4 align = center><i> ✨ Now, take a look at my projects and ✨ star them ✨ , if you like! ✨ </i> </h4> <br>
 <h3 align = justify> 🗨️ 📂 Repositories present in the page 📂: </h3> <h4> <ul type = circle>
   <li> My-projects - Python & HTML </li>
   <li> Mathematics-for-ML </li>
